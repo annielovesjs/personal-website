@@ -1,0 +1,14 @@
+.intro > .line {
+    width: 40%;
+    height: 10px;
+    border-top: 1px solid #0000001f;
+ }
+
+.intro h4 {
+    padding: 20px 10px;
+}
+
+.intro > p {
+    margin-top: 5%;
+    font-size: 15px;
+}

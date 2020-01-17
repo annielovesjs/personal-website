@@ -1,0 +1,57 @@
+.annieDP {
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    background: url("./pics/dp.png") center/cover no-repeat;
+}
+
+.dpBox {
+    padding-bottom: 5%;
+}
+
+.sideBar {
+    height: 70%;
+}
+
+.row {
+    text-align: center;
+    margin: 0 auto;
+    height: 100vh;
+    background: url('./pics/goldbig.png') no-repeat;
+    display: flex;
+    align-items: center;
+}
+
+@media only screen and (min-width: 600px) {
+    .row {
+        width: 45%;
+        float: left;
+        background: url('./pics/goldbig.png') no-repeat; 
+    }
+    .annieDP {
+        height: 180px;
+        width: 180px;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .row {
+        width: 30%;
+    }
+
+    .annieDP {
+        height: 150px;
+        width: 150px;
+    }
+
+}
+
+@media only screen and (min-width: 1150px) {
+    .row {
+        width: 25%;
+    }
+    .annieDP {
+        height: 180px;
+        width: 180px;
+    }
+}

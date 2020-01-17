@@ -1,0 +1,16 @@
+.icons {
+    border-radius: 100%;
+}
+
+.icons:hover {
+    background: #c5a042;
+}
+
+.social {
+    margin-top: 3vh;
+}
+
+.social > a {
+    margin-left: 5px;
+    margin-right: 5px;
+}
