@@ -33,7 +33,7 @@ export const PROJECT_OBJ = [
     {
         'name': 'This Just Got Real',
         'tools': ['HTML & CSS', 'JavaScript'],
-        'link': 'https://github.com/annielovesjs/Ben-D-mello-Site',
+        'link': 'https://github.com/annielovesjs/bendmello-client-site',
         'img': './pics/bendmello.png',
         'live': false
     },
