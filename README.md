@@ -1,9 +1,10 @@
-Name: annieliang.io
+# annieliang.io
 
-Purpose: Most recent update of personal website (Jan 2020)
+## Description
+- Most recent update of personal website (Jan 2020)
+- Static website written in React
+- Run npm start to launch on localhost:3000
 
-Description: Static website written in React. Run npm start to launch on localhost:3000
-
-
-
+## Preview of website
+![preview of website](public/pics/preview.png)
 
