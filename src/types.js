@@ -5,7 +5,7 @@ export const PROJECT_OBJ = [
     {
         'name': 'The Food Hunt',
         'tools': ['React', 'D3'],
-        'link': 'https://master.dxo0w0hdwf3qr.amplifyapp.com/',
+        'link': 'https://foodhunt.annieliang.io/',
         'img': './pics/foodhunt.jpg',
         'live': true
     },
