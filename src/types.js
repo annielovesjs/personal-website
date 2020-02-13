@@ -19,7 +19,7 @@ export const PROJECT_OBJ = [
     {
         'name': 'Dice It Up',
         'tools': ['HTML & CSS','JavaScript'],
-        'link': 'https://master.d1c9u7vxfx3hs0.amplifyapp.com/',
+        'link': 'https://diceitup.annieliang.io/',
         'img': './pics/diceitup.png',
         'live': true
     },
