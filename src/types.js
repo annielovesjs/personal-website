@@ -26,9 +26,9 @@ export const PROJECT_OBJ = [
     {
         'name': 'Spice Up Your Style',
         'tools': ['HTML & CSS', 'JavaScript'],
-        'link': 'http://designsbytara.ca/index.html',
+        'link': 'https://github.com/annielovesjs/designsbytara',
         'img': './pics/taraweaver.jpg',
-        'live': true
+        'live': false
     },
     {
         'name': 'This Just Got Real',
