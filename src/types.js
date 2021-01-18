@@ -8,9 +8,9 @@ export const PROJECT_OBJ = [
 	{
 		name: "Spade",
 		tools: ["Socket.io", "Node.js", "Javascript"],
-		link: "http://ec2-3-96-195-143.ca-central-1.compute.amazonaws.com:3000/",
+		link: "https://github.com/annielovesjs/Spade",
 		img: "./pics/spade.png",
-		live: true,
+		live: false,
 	},
 	{
 		name: "The Food Hunt",
